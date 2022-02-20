@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://beacons.ai/IsaMonik">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaMonik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaMonik&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IsaMonik&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaMonik&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   ##
@@ -28,4 +28,13 @@
   <a href="https://instagram.com/_monikisa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/@Monikisa2" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoisabellemonike00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  </div>
+  
+  
+  </div>
+  <img aling"ahttps://giphy.com/gifs/disneymoana-cute-3oriNUaN65T9ACqmIM"></a>
+  </div>
+  
+  </div>
+  <a [![Readme Card](https://IsaMonik.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)></a>
   </div>
