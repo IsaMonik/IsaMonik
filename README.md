@@ -18,7 +18,7 @@
   
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="IsaMonik-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  < img  align = "center"  alt = "IsaMonik-HTML"  height = "30"  width = "40"  src = " https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg " >
   <img align="center" alt="IsaMonik-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
@@ -29,7 +29,13 @@
   <a href = "mailto:contatoisabellemonike00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-
+Em
   </div>
   <a [![Readme Card](https://IsaMonik.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)></a>
   </div>
+  
+<h1 align="center">
+< img  src = " https://user-images.githubusercontent.com/99221553/154831844-b5b3a4ad-652f-4c27-bb19-636eba569cca.gif "  largura = "50"  />
+Olá eu sou a Maria Eduarda Silva sejam, Bem Vindos 🌐
+</ h1 >
+Em
