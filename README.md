@@ -29,12 +29,3 @@
   <a href = "mailto:contatoisabellemonike00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-
-  </div>
-  <a [![Readme Card](https://IsaMonik.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)></a>
-  </div>
-  
-<h1 align="center">
-< img  src = " https://giphy.com/gifs/disneymoana-cute-3oriNUaN65T9ACqmIM "  largura = "50"  />
-</h1>
-
