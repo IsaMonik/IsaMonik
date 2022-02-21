@@ -30,10 +30,9 @@
   <a href = "mailto:contatoisabellemonike00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-  
-  </div>
-  <img aling"ahttps://giphy.com/gifs/disneymoana-cute-3oriNUaN65T9ACqmIM"></a>
-  </div>
+  Inline-style:
+  ![Alt Text](https://giphy/gifs/disneymoana-cute-3oriNUaN65T9ACqmIM/giphy.gif)
+ 
   
   </div>
   <a [![Readme Card](https://IsaMonik.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)></a>
