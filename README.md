@@ -29,14 +29,12 @@
   <a href = "mailto:contatoisabellemonike00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
   
-Em
+
   </div>
   <a [![Readme Card](https://IsaMonik.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)></a>
   </div>
   
 <h1 align="center">
-< img  src = " https://user-images.githubusercontent.com/99221553/154831844-b5b3a4ad-652f-4c27-bb19-636eba569cca.gif "  largura = "50"  />
-Olá eu sou a Maria Eduarda Silva sejam, Bem Vindos 🌐 https://giphy.com/gifs/disneymoana-cute-3oriNUaN65T9ACqmIM
-</     h1  https://giphy.com/gifs/disneymoana-cute-3oriNUaN65T9ACqmIM   >
-Em
-Em
+< img  src = " https://giphy.com/gifs/disneymoana-cute-3oriNUaN65T9ACqmIM "  largura = "50"  />
+</h1>
+
