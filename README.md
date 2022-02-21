@@ -4,7 +4,7 @@
 - 🌱Cursando Técnico em Informática
 - 💬 Gosto de conversar sobre assunto diversos, curiosidades e dividir experiências...
 - 📫 Contate-me no Emai: isabellemonike00@GMAIL.com
-- 😄 Pronouns: Ela/Dela
+- 😄 Pronomes: Ela/Del/Moana
 - ⚡ Curiosidades: Musicista e Atriz, tenho conhecimento básico em Libras e adoro dançar.
 - 🎻Toco vários instrumentos, como violão, flauta doce, mas meu robe mesmo e o Violinio.
 
