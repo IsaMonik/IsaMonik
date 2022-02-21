@@ -1,13 +1,15 @@
 ### Olá, sou Isabelle Monike😚✌
 
+##
 - 🔭 Altualmente trabalho como menor Aprediz na Drogaria Pacheco
-- 🌱Cursando Técnico em Informática
+- 🌱 Cursando Técnico em Informática
 - 💬 Gosto de conversar sobre assunto diversos, curiosidades e dividir experiências...
-- 📫 Contate-me no Emai: isabellemonike00@GMAIL.com
-- 😄 Pronomes: Ela/Del/Moana
+- 📫 Contate-me no Emai: isabellemonike00@gmail.com
+- 😄 Pronomes: Moana
 - ⚡ Curiosidades: Musicista e Atriz, tenho conhecimento básico em Libras e adoro dançar.
-- 🎻Toco vários instrumentos, como violão, flauta doce, mas meu robe mesmo e o Violinio.
+- 🎻 Toco vários instrumentos, como violão, flauta doce, mas meu robe mesmo e o Violinio.
 
+##
 <img width="100" height="100" src="https://media4.giphy.com/media/3oriNUaN65T9ACqmIM/200w.webp?cid=ecf05e474h7pim817txs1oz6eedovyixqk825ag70pqf8kmj&rid=200w.webp&ct=g "/>
 
 <div align="center">
